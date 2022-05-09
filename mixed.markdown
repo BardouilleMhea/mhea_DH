@@ -57,7 +57,7 @@ Within the dataset for the project’s name, authors, Herbter George de Lisser a
 <br/><br/>
 <br/>
 <br/>  Herbert George de Lisser was an Afro-Jewish Jamaican journalist and author. de Lisser's work rarely focused on his struggles with identity or race; rather, his novels, which were first published in the newspaper The Planter's Punch, explored cultural themes such as the role of superstition, magic, voodoo, and witchcraft in socialization in Jamaica. Other common themes within his work include the depiction of heroism and the impact of slavery and systematic oppression on Jamaican society. Furthermore, de Lisser was known for his distinct and resonant portrayal of women in his work, appearing in publications such as Jane's Career and Myrtle and Money. 
-> "[Herbert George de Lisser is a] distinguished figure in Jamaican intellectual, artistic, political, and social circles." - Frank M. Birbalsingh
+> "[Herbert George de Lisser] is a distinguished figure in Jamaican intellectual, artistic, political, and social circles." - Frank M. Birbalsingh
 
 
 <br/>
@@ -87,7 +87,7 @@ Olive Senior is a Jamaican poet, novelist, short story, and non-fiction writer, 
  <img src="https://images-na.ssl-images-amazon.com/images/I/91aJDtK1zIL.jpg" alt="Mixed Ethnicity" align ="top" style="width: 45%;height:30%;margin: 10px 10px"  >
 
 __Book Overview__
-Herbert George de Lisser was a Jamaican journalist and author of Afro-Jewish ancestry. De Lisser's work was first published in the Jamaican newspaper The Planter's Punch, and it tackled issues of identity and race, as well as cultural themes including the role of superstition, magic, voodoo, and witchcraft in socialization. The portrayal of heroism, as well as the impact of slavery and systematic oppression on Jamaican society, are other recurrent topics in his work. De Lisser was also known for his distinctive and evocative depictions of women in his work. 
+Herbert George de Lisser was a Jamaican journalist and author of Afro-Jewish ancestry. De Lisser's work was first published in the Jamaican newspaper The Planter's Punch, and it tackled issues of identity and race, as well as cultural themes including the role of superstition, magic, voodoo, and witchcraft in socialization. The portrayal of heroism, as well as the impact of slavery and systematic oppression on Jamaican society, are other recurrent topics in his work. De Lisser was also known for his distinctive and evocative depictions of women in his work. 
 
 __Add -Key Themes__
 
@@ -108,6 +108,9 @@ __Add -Key Themes__
 <br/>
 
 ## Deep Dive! {#deep-dive}
+
+
+## Bibliography {#bibliography}
 
 Ferguson, J. (2021, October 7). Jamaican Gothic: The White Witch of Rosehall. Caribbean Beat Magazine. Retrieved March 27, 2022, from [https://www.caribbean-beat.com/issue-56/jamaican-gothic#axzz7Opaq5Uj2](https://www.caribbean-beat.com/issue-56/jamaican-gothic#axzz7Opaq5Uj2)
 
