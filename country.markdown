@@ -17,7 +17,7 @@ div {
 
 1. [Prologue](#Prologue)
 2. [Gender Concentration by Country](#Gender-Concentration-by-Country)
-3. [Analysis](#Analysis)
+3. [Analysis](#Analysis) <br/>
 	a. [Equality between Male and Female Publications](#Equality) <br/>
 	b. [One-sided concentration](#one-sided)<br/>
 	c. [Economic Perspective](#economic)<br/>
