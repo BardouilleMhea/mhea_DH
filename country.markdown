@@ -113,7 +113,7 @@ In this project, 63.16%, or 24 out of the 38 countries, have one-sided concentra
 
 **Learn more about the authors and their literary works from the countries with the highest female concentration**
 
-<iframe src="https://uploads.knightlab.com/storymapjs/f46cf935470bb0740a720e3c7f07bf75/authorship-country-1961-1990-highest-concentration-of-female-authors/index.html" frameborder="0" width="125%" height="800"></iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/f46cf935470bb0740a720e3c7f07bf75/authorship-country-1961-1990-highest-concentration-of-female-authors/index.html" frameborder="0" width="100%" height="800"></iframe>
 
 <br />
 
