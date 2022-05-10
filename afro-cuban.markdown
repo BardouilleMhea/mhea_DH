@@ -50,7 +50,7 @@ As a result, there was a mass emigration of Cubans of European descent and Afro-
 However, in the 1920s, the Afrocubansimo movement validated the African-influenced culture of Cuba and acknowledged Blackness as part of Cuba’s national identity. 
 
 <a href="https://www.youtube.com/watch?v=6bcXXbbMY5Q">
-<img src="https://i.ytimg.com/vi/6bcXXbbMY5Q/maxresdefault.jpg" alt="Learn more about Afro Cuban History" width="650" height="550">
+<img src="https://i.ytimg.com/vi/6bcXXbbMY5Q/maxresdefault.jpg" alt="Learn more about Afro Cuban History" width="700" height="550">
 </a>
 
 [Learn more about Afro Cuba History](https://www.youtube.com/watch?v=6bcXXbbMY5Q)
@@ -81,14 +81,19 @@ Within the dataset for  **project’s name**, Cuban authors, Nicolás Guillén a
 
 ## Deep Dive! {#deep-dive}
 
-### Nicolás Guillén:Musica de Camara (1979) 
+### Nicolás Guillén :Musica de Camara (1979) 
 Nicolás Guillén’s publicaiton, _Musica de Camara (Chamber music)_ was originally published by Union of Writers and Artists of Cuba (Havana) in 1979. 
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/91964HOpq5L.jpg" alt="Musica de Camara (Chamber music) by Nicolás Guillén" style="width:40%;height:30%;margin: 10px 10px"  >
 
-__Synopsis__
+In this poetry collection of 80 poems, Guillénis distinguishes his voice from other Caribbean authors through his rhytmic and musical elements, as well as puns, in his love and musical poems, which discuss themes such as gender and sexuality and identity.
 
-__Add -Key Themes__
+<a href="https://www.youtube.com/watch?v=bSITQi8eBx8&t=1034s">
+<img src="https://pictures.abebooks.com/isbn/9789561314962-es-300.jpg" alt="#LecturasDomiciliarias: “Poemas de amor y Música de cámara” de Nicolás Guillén
+" width="700" height="550">
+</a>
+
+[Listen to a reading of Musica de Camara from a later edition book by #LecturasDomiciliarias](https://www.youtube.com/watch?v=bSITQi8eBx8&t=1034s)
 
 ###  Soleida Ríos: De Pronto Abril (1979)
 
