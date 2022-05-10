@@ -103,17 +103,23 @@ Jane's Career: A Story of Jamaica was the first West Indian novel to feature a b
 ### Olive Senior: Summer Lightning and other stories (1986)
 ![](https://images-na.ssl-images-amazon.com/images/I/51J7tEboCoL.jpg)
 
-__Book Overview__
+[Summer Lighning and Other Stories](https://www.amazon.com/Lightning-Stories-Longman-Caribbean-Writers/dp/0582786274) by Olvie Senior is a 1986 short story collection set in rural Jamaica and written in vivid, colorful details that compel a wide range of emotions, from childhood hope to brooding melancholy.
 
+The stories in the book are:
 
-__Add -Key Themes__
+* Summer lightning
+* Love orange
+* Country of the one eye god
+* Ascot
+* Bright Thursdays
+* Real old time t'ing
+* Do angels wear brassieres?
+* Confirmation day
+* The boy who loved ice cream
+* Ballad
 
-
+> "I believe Summer Lightning to be a true expression of everyday life in that part of the world I describe, i.e., deep rural Jamaica, in terms of behaviours, beliefs, practices narrated and language used." - Olive Senior 
 <br/>
-
-<br/>
-
-## Deep Dive! {#deep-dive}
 
 
 ## Bibliography {#bibliography}
