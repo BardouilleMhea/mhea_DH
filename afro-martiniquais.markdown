@@ -65,11 +65,23 @@ Marie-Magdeleine Carbet was a Martinican writer who co-wrote novels, short stori
 > "Evidently, as a woman, she finds some solace in the nineteenth-century traditions of Romanticism and of Western European Christianity, which validated suffering, expressed her own perceived state of exile, and promoted female passivity. While writing within this dominant metropolitan tradition, however, Carbet develops and produces a voice that distinguishes her as essentially Caribbean." [E. Anthony Hurley](https://www.jstor.org/stable/2931402)
 
 <br />
-<br />
 
 ## Deep Dive! {#deep-dive}
 
-### Jean Bernabé: Éloge de la créolité (1989) 
+### Jean Bernabé: Éloge de la créolité (Praise of creoleness) (1989) 
+
+![Jean Bernabé: Éloge de la créolité (Praise of creoleness)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1P98S1jmoZQkI6qXVGcy5SwVn2Y3OXczv1iOq11FOGwBPRjb1eeXqPQaJeOg9uygz_c0&usqp=CAU)
+
+In [ Éloge de la créolité](https://www.amazon.com/Creolite-Praise-Creoleness-English-French/dp/2070733238) Bernabé explores themes of politics and power in this literary piece, as well as attempting to inspire his audience to embrace their unique Creole identity and encourage the creation of a society that recognizes and accepts the true and authentic expression of the identity.
+
+<a href="https://www.youtube.com/watch?v=6rRPXJEpUOc">
+<img src="https://www.asymptotejournal.com/blog/wp-content/uploads/2017/05/Patrick.jpg" alt="Reading of Éloge de la créolité by Raphaël Confiant a secondary author" width="700" height="550">
+</a>
+
+[Listen to a reading of  Éloge de la créolité by Raphaël Confiant a secondary author of this literary piece](https://www.youtube.com/watch?v=6rRPXJEpUOc)
+**Accessibility issue** : This video is only in French and closed captions are unavailable, which may make it unviewable for some individuals.
+
+<br/>
 
 ### Marie-Magdeleine Carbet: Écoute, soleil-dieu (1961)
 
