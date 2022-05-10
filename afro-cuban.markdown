@@ -121,6 +121,7 @@ Freedom Is Mine Official. (2020, April 27). AFRO CUBA: The African Diaspora in C
 
 Hawkins, J. R. (2020, October 27). Discovering the African Heartbeat in Cuba. Essence. [https://www.essence.com/lifestyle/discovering-afro-cuban-culture/](https://www.essence.com/lifestyle/discovering-afro-cuban-culture/)
 
+Leader, G. (2014, November 24). Isn’t this woman the same as always? Gender, race and Cuban poetry of the eighties in the poetic work of Soleida Ríos. Scielo. Retrieved May 10, 2022, from [https://www.jstor.org/stable/24585219](https://www.jstor.org/stable/24585219)
 Poetry Foundation. (n.d.). Nicolás Guillén. Retrieved March 25, 2022, from [https://www.poetryfoundation.org/poets/nicolas-guillen](https://www.poetryfoundation.org/poets/nicolas-guillen)
 
 Springhouse Journal. (n.d.). Soleida Rios  Poetry  Springhouse Journal. [https://springhousejournal.com/Issue5/Rios/](https://springhousejournal.com/Issue5/Rios/)
