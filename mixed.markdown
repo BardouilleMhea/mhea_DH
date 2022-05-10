@@ -121,7 +121,7 @@ The stories in the book are:
 > "I believe Summer Lightning to be a true expression of everyday life in that part of the world I describe, i.e., deep rural Jamaica, in terms of behaviours, beliefs, practices narrated and language used." - Olive Senior 
 <br/>
 
-
+<br/>
 ## Bibliography {#bibliography}
 
 Ferguson, J. (2021, October 7). Jamaican Gothic: The White Witch of Rosehall. Caribbean Beat Magazine. Retrieved March 27, 2022, from [https://www.caribbean-beat.com/issue-56/jamaican-gothic#axzz7Opaq5Uj2](https://www.caribbean-beat.com/issue-56/jamaican-gothic#axzz7Opaq5Uj2)
