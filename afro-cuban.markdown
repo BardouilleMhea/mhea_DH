@@ -94,6 +94,9 @@ In this poetry collection of 80 poems, Guillénis distinguishes his voice from o
 </a>
 
 [Listen to a reading of Musica de Camara from a later edition book by #LecturasDomiciliarias](https://www.youtube.com/watch?v=bSITQi8eBx8&t=1034s)
+**Accessibility issue** s: This video is only in Spanish and closed captions are unavailable, which may make it unviewable for some individuals.
+
+<br/>
 
 ###  Soleida Ríos: De Pronto Abril (1979)
 
@@ -104,6 +107,7 @@ __Add-Synopsis__
 
 __Add -Key Themes__
 
+<br/>
 
 
 ### Bibliography {#bibliography}
