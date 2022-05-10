@@ -86,7 +86,7 @@ In [ Éloge de la créolité](https://www.amazon.com/Creolite-Praise-Creoleness-
 ### Marie-Magdeleine Carbet: Écoute, soleil-dieu (1961)
 
 
-## Deep Dive! {#deep-dive}
+## Bibliography {#bibliography}
 
 Bernabé, J., Chamoiseau, P., Confiant, R., Khyar, M. B. T., Bernabe, J., & Confiant, R. (1990). In Praise of Creoleness. In Praise of Creoleness, 13(4), 886. [https://doi.org/10.2307/2931390](https://doi.org/10.2307/2931390)
 
