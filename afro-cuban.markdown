@@ -56,8 +56,6 @@ However, in the 1920s, the Afrocubansimo movement validated the African-influenc
 ![](https://i.ytimg.com/vi/6bcXXbbMY5Q/maxresdefault.jpg)
 [Learn more about Afro Cuba History](https://www.youtube.com/watch?v=6bcXXbbMY5Q)
 
-does this work
-
 <br/>
 
 > Afro-Cuban Culture is Cuban Culture
