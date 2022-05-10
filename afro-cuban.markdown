@@ -49,8 +49,8 @@ As a result, there was a mass emigration of Cubans of European descent and Afro-
 
 However, in the 1920s, the Afrocubansimo movement validated the African-influenced culture of Cuba and acknowledged Blackness as part of Cuba’s national identity. 
 
-<a href="https://i.ytimg.com/vi/6bcXXbbMY5Q/maxresdefault.jpg">
-<img src="w3html.gif" alt="Learn more about Afro Cuban History" width="150" height="70">
+<a href="https://www.youtube.com/watch?v=6bcXXbbMY5Q">
+<img src="https://i.ytimg.com/vi/6bcXXbbMY5Q/maxresdefault.jpg" alt="Learn more about Afro Cuban History" width="150" height="70">
 </a>
 
 ![](https://i.ytimg.com/vi/6bcXXbbMY5Q/maxresdefault.jpg)
