@@ -75,7 +75,7 @@ Marie-Magdeleine Carbet was a Martinican writer who co-wrote novels, short stori
 In [ Éloge de la créolité](https://www.amazon.com/Creolite-Praise-Creoleness-English-French/dp/2070733238) Bernabé explores themes of politics and power in this literary piece, as well as attempting to inspire his audience to embrace their unique Creole identity and encourage the creation of a society that recognizes and accepts the true and authentic expression of the identity.
 
 <a href="https://www.youtube.com/watch?v=6rRPXJEpUOc">
-<img src="https://www.domtomactu.com/wp-content/uploads/2017/04/685203-thumb.jpg" alt="Reading of Éloge de la créolité by Raphaël Confiant a secondary author" width="600" height="550">
+<img src="https://iocp.potomitan.info/gallery/ecrivains/bernabe.jpg" alt="Reading of Éloge de la créolité by Raphaël Confiant a secondary author" width="700" height="550">
 </a>
 
 [Listen to a reading of  Éloge de la créolité by Raphaël Confiant a secondary author of this literary piece](https://www.youtube.com/watch?v=6rRPXJEpUOc)
