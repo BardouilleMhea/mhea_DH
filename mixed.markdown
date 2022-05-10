@@ -75,8 +75,10 @@ Olive Senior is a Jamaican poet, novelist, short story, and non-fiction writer, 
 <br/>
 <br/>
 
-<img src="https://i.ytimg.com/vi/glOO2YdRsTk/mqdefault.jpg" style="width:500px;height:300px;" >
-<br/>
+<a href="https://www.youtube.com/watch?v=glOO2YdRsTk">
+<img src="https://i.ytimg.com/vi/glOO2YdRsTk/mqdefault.jpg" alt="MUSE ARTS: Power of Words: Olive Senior" width="700" height="500">
+</a>
+
 [Learn more about Olive Senior Newer Literary Pieces!](https://www.youtube.com/watch?v=glOO2YdRsTk)
 
 <br/>
