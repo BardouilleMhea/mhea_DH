@@ -49,7 +49,7 @@ In the article ["Gender and Literature" by Pázámy Péter Catholic University](
 
 However, as society has progressed, people have become more open-minded and these predetermined gender roles and gender idenity have had less of an effect on these authors, as the gap between men and women has decreased due to social movements like the Feminist Movement and greater societal acceptance.
 
-One of my early observations made when working in the time period 1971–1980 for the Writers, Readers, and Scenes, which I documented in my course blog, was female writers in this time period usually wrote books about gender and sexuality and family relations, whereas male writers wrote about social injustice, politics, and war. 
+One of my early observations made when working in the time period 1971–1980 for the Writers, Readers, and Scenes, which I documented in my [course blog](https://bardouillemhea.github.io/mheab/vcl-progress-report/2022/02/10/vcl-report-4.html), was female writers in this time period usually wrote books about gender and sexuality and family relations, whereas male writers wrote about social injustice, politics, and war. 
 
 However, upon reflection, I realized that female authors such as Jamaica Kincaid have written novels about colonialism and its effects on her home country, Antigua. Thus, I began to question if there was a significant disparity in the thematic expression of books authored by male or female authors and if the gender roles stillheavily trapped Caribbean authors in the mid-20th centruy. 
 
