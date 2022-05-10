@@ -105,7 +105,7 @@ Soledia Ríos, publication, __De Pronto Abril__ was originally published in 1979
 In this literary piece, Ros explores racial identity, particularly how Cuba's national identity excluded Agrican or Caribbean culture and literary traditions, as well as other obstacles she faced as a woman during a time of cenorhsip by the government.
 
 <a href="https://www.youtube.com/watch?v=QU6fy48QqOQ">
-<img src="https://i.ytimg.com/vi/a9zhXT0gvfs/maxresdefault.jpg" alt="Video: Meeting with the poet Soleida Rios in her house in Havana 2008" width="700" height="550">
+<img src="https://directoriodeafrocubanas.com/wp-content/uploads/2016/01/unnamed-7.jpg" alt="Video: Meeting with the poet Soleida Rios in her house in Havana 2008" width="700" height="500">
 </a>
 
 [Learn more about Soleida Rios in an interview with her in her house in Havana 2008](https://www.youtube.com/watch?v=QU6fy48QqOQ)
