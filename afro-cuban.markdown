@@ -50,7 +50,7 @@ As a result, there was a mass emigration of Cubans of European descent and Afro-
 However, in the 1920s, the Afrocubansimo movement validated the African-influenced culture of Cuba and acknowledged Blackness as part of Cuba’s national identity. 
 
 <a href="https://www.youtube.com/watch?v=6bcXXbbMY5Q">
-<img src="https://i.ytimg.com/vi/6bcXXbbMY5Q/maxresdefault.jpg" alt="Learn more about Afro Cuban History" width="750" height="550">
+<img src="https://i.ytimg.com/vi/6bcXXbbMY5Q/maxresdefault.jpg" alt="Learn more about Afro Cuban History" width="750" height="450">
 </a>
 
 [Learn more about Afro Cuba History](https://www.youtube.com/watch?v=6bcXXbbMY5Q)
@@ -68,7 +68,6 @@ Within the dataset for  **project’s name**, Cuban authors, Nicolás Guillén a
 
 <br />
 <br />
-
 
 #### Soleida Rios {#soledia-rios}
 
@@ -94,7 +93,7 @@ In this poetry collection of 80 poems, Guillénis distinguishes his voice from o
 </a>
 
 [Listen to a reading of Musica de Camara from a later edition book by #LecturasDomiciliarias](https://www.youtube.com/watch?v=bSITQi8eBx8&t=1034s)
-**Accessibility issue** s: This video is only in Spanish and closed captions are unavailable, which may make it unviewable for some individuals.
+**Accessibility issue** : This video is only in Spanish and closed captions are unavailable, which may make it unviewable for some individuals.
 
 <br/>
 
@@ -103,12 +102,15 @@ In this poetry collection of 80 poems, Guillénis distinguishes his voice from o
 Soledia Ríos, publication, __De Pronto Abril__ was originally published in 1979 by Ediciones Unión. 
 ![](https://writing.upenn.edu/epc/authors/rios/images/pronto2.gif)
 
-__Add-Synopsis__
+In this literary piece, Ros explores racial identity, particularly how Cuba's national identity excluded Agrican or Caribbean culture and literary traditions, as well as other obstacles she faced as a woman during a time of cenorhsip by the government.
 
-__Add -Key Themes__
+<a href="https://www.youtube.com/watch?v=QU6fy48QqOQ">
+<img src="https://i.ytimg.com/vi/a9zhXT0gvfs/maxresdefault.jpg" alt="Video: Meeting with the poet Soleida Rios in her house in Havana 2008" width="700" height="550">
+</a>
+
+[Learn more about Soleida Rios in an interview with her in her house in Havana 2008](https://www.youtube.com/watch?v=QU6fy48QqOQ)
 
 <br/>
-
 
 ### Bibliography {#bibliography}
 
