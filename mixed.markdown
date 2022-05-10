@@ -86,11 +86,15 @@ Olive Senior is a Jamaican poet, novelist, short story, and non-fiction writer, 
 ## Deep Dive! {#deep-dive}
 
 ### Herbert G. de Lisser: Jane's Career: A Story of Jamaica (1971) 
- <img src="https://pressbooks.library.ryerson.ca/janeastoryofjamaica/wp-content/uploads/sites/297/2021/11/A-Story-of-Jamaica-Cover-350x525.png" alt="Mixed Ethnicity" align ="top" style="width: 45%;height:30%;margin: 10px 10px">
+
+<a href="https://pressbooks.library.ryerson.ca/janeastoryofjamaica/">
+<img src="https://pressbooks.library.ryerson.ca/janeastoryofjamaica/wp-content/uploads/sites/297/2021/11/A-Story-of-Jamaica-Cover-350x525.png" alt="Read the book for Free using Press Book Open Source Library" align ="top" style="width: 45%;height:30%;margin: 10px 10px">
+</a>
 
 [Read the book for Free using Press Book Open Source Library](https://pressbooks.library.ryerson.ca/janeastoryofjamaica/)
 
 __Book Overview__
+<br/>
 
 Jane's Career: A Story of Jamaica was the first West Indian novel to feature a black protagonist. In this novel, de Lisser captures the hope and struggle of a young woman leaving home for the first time. "Jane," who is moving to Kingston, which is described as a "very big and wicked city," in which "a young girl like you, who the Lord has blessed with a good figure and a face, must be careful not to keep bad company." Preparing to send young Jane off to the Jamaican capital, village elder Daddy Buckram attempts to offer her advice on how to keep herself safe from Satan and sinners alike. Despite his serious tone and gloomy portrait of urban life, all Jane can think of is the wonder and excitement waiting for her in Kingston. Raised in the countryside and brought up in a conservative Christian family, Jane sees her new job as a means of achieving independence and establishing her own identity as a proud black woman, and of forging her own path in a new, modern Jamaica. In spite of her dreams, however, Jane finds herself subjected to the cruelties of her employer, Mrs. Mason, who threatens to send a letter to her parents alleging all sorts of imagined misdeeds. Through it all, she tries to maintain a sense of pride, hopeful that hard work—and even romance—will set her free.
 
