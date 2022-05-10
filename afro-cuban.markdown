@@ -81,11 +81,10 @@ Within the dataset for  **project’s name**, Cuban authors, Nicolás Guillén a
 
 ## Deep Dive! {#deep-dive}
 
-### Nicolás Guillén: Obra Poética, 1920-1972 (1972) 
+### Nicolás Guillén:Musica de Camara (1979) 
+Nicolás Guillén’s publicaiton, _Musica de Camara (Chamber music)_ was originally published by Union of Writers and Artists of Cuba (Havana) in 1979. 
 
-Nicolás Guillén’s publicaiton, __Obra poética, 1920-1972__ was originally published by Editorial de Arte y Literatura in 1972.
-
-<img src="https://pictures.abebooks.com/inventory/31119314445.jpg" alt="Obra poética, 1920-1972 by Nicolás Guillén" style="width:40%;height:30%;margin: 10px 10px"  >
+<img src="https://images-na.ssl-images-amazon.com/images/I/91964HOpq5L.jpg" alt="Musica de Camara (Chamber music) by Nicolás Guillén" style="width:40%;height:30%;margin: 10px 10px"  >
 
 __Synopsis__
 
