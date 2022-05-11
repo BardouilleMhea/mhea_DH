@@ -87,6 +87,12 @@ In [ Éloge de la créolité](https://www.amazon.com/Creolite-Praise-Creoleness-
 
 In this poem, [Carbet](https://en.wikipedia.org/wiki/Marie-Magdeleine_Carbet) explores themes such as the exaltation of the beauty of her native land, Martinique, as well as praises the unique identity of Antilleian terrorites belonging to France through the use of the poem's meter and embedding the poem with Creole language, which mimics typical Marriniquan oral tradition.
 
+<a href="https://www.youtube.com/watch?v=Py1R3vVOKqI">
+<img src="https://i.discogs.com/19NOTq5QK0A0y2ssmxUl1wqHFjLBevUhSjCD5klzme0/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY4MDEx/NDEtMTU0MTY1Mjk3/MC05NjEyLmpwZWc.jpeg" alt="Reading of L'acacia (The Acacia) by Marie-Magdeleine Carbet" width="700" height="550">
+</a>
+
+[Listen to a reading of Marie-Magdeleine Carbet's poem "L'acacia" (The Acacia)](https://www.youtube.com/watch?v=Py1R3vVOKqI)
+**Accessibility issue** : This video is only in French and closed captions are unavailable, which may make it unviewable for some individuals.
 
 
 ## Bibliography {#bibliography}
