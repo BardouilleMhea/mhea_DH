@@ -18,7 +18,7 @@ div {
 
 1. [Historical Context](#historical-context)
 2. [Jean Bernabé](#jean-bernabe)
-3. [Marie-Magdeleine Carbet](marire-magdeleine-carbet)
+3. [Marie-Magdeleine Carbet](#marire-magdeleine-carbet)
 4. [Deep Dive!](#deep-dive)
 5. [Bibliography](#bibliography)
 
@@ -84,6 +84,9 @@ In [ Éloge de la créolité](https://www.amazon.com/Creolite-Praise-Creoleness-
 <br/>
 
 ### Marie-Magdeleine Carbet: Écoute, soleil-dieu (1961)
+
+In this poem, [Carbet](https://en.wikipedia.org/wiki/Marie-Magdeleine_Carbet) explores themes such as the exaltation of the beauty of her native land, Martinique, as well as praises the unique identity of Antilleian terrorites belonging to France through the use of the poem's meter and embedding the poem with Creole language, which mimics typical Marriniquan oral tradition.
+
 
 
 ## Bibliography {#bibliography}
