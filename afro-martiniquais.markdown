@@ -57,7 +57,7 @@ Jean Bernabé was a Martinican writer, linguist, and the co-founder of the liter
 <br />
 <br />
 
-### Marie-Magdeleine Carbet {marire-magdeleine-carbet}
+### Marie-Magdeleine Carbet {#marire-magdeleine-carbet}
 <img src="https://hyperleap.com/images/060a320696eee03019d234557f849678%2F200-5ac4cc504979ad1869010fb8f2c13d4b.jpg" alt="Mixed Ethnicity" align ="left" style="width: 35%;height:30%;margin: 10px 10px"  >  
 
 Marie-Magdeleine Carbet was a Martinican writer who co-wrote novels, short stories, children's stories, essays, and poems under the pen name "Carbet" with her lesbian partner. This pseudonym allowed these women to explore sensitive topics traditionally banned to women. Unlike other French Caribbean authors from her generation who wrote about the social and political struggles faced within the French Caribbean, Carbet explored themes of her suffering, feelings of exile, and the cultural views that kept women oppressed.
