@@ -17,7 +17,7 @@ div {
 
 This site presents [data](https://github.com/BardouilleMhea/mhea_DH), [visualizations](/mhea_DH/charts), [exhibits](/mhea_DH/exhbits), and [a map](https://uploads.knightlab.com/storymapjs/f46cf935470bb0740a720e3c7f07bf75/authorship-country-1961-1990-highest-concentration-of-female-authors/index.html) drawn from the Writers, Readers, and Scenes: Visualizing Caribbean Literature project to critically compare and explore the *ethnic variances*, *expressive styles*, *authorship countries* and *thematic expression*  of male and female Caribbean authors from 1961–to 1990.
 
-<<Define how this project defines a Caribbean author>>
+In the scope of this project, a *"Caribbean author"* is classified as a writer born in countries belonging or relating to the Caribbean Sea (including the West Indies) and the surrounding coasts, as well as authors of Caribbean heritage.
 
 InThe Gender Split: West Indian Literature, 1961-1990, researcher [Mhea Bardouille](/mhea_DH/about) asks: 
 * What are the most common genres used by male and female authors who published books between 1961 and 1990? 
