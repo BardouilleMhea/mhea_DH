@@ -33,7 +33,7 @@ My conceptualisation for this project came about when I wanted to explore if cer
 
 After completing this digital humanities project, I have a newfound appreciation for Willaim Thomas' article,["What We Think We Will Build and What We Build in Digital Humanities"](http://journalofdigitalhumanities.org/1-1/what-we-think-we-will-build-and-what-we-build-in-digital-humanities-by-will-thomas/). 
 
->In digital humanities, what we think we will build and what we build are often quite different, and unexpectedly so. It’s this radical disjuncture that offers us both opportunities and challenges.
+> "In digital humanities, what we think we will build and what we build are often quite different, and unexpectedly so. It’s this radical disjuncture that offers us both opportunities and challenges." - Willaim Thomas
 
 After my initial idea for this project, I decided to expand this project to explore if gender variances exist in different elements, specifically ethnicities and genres.
 
