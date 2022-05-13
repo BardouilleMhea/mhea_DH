@@ -18,7 +18,7 @@ padding: 10px 20px 20px 20px;
 </style>
 
 # Team 
-The project, *project name* is part of a larger project called Writers, Readers, and Scenes: Visualizing Caribbean Literature, which aims to expand critical engagement with Caribbean literary history and add a dimension to the literary reception and depth of Caribbean communities.
+The project, The Gender Split: West Indian Literature, 1961-1990 is part of a larger project called Writers, Readers, and Scenes: Visualizing Caribbean Literature, which aims to expand critical engagement with Caribbean literary history and add a dimension to the literary reception and depth of Caribbean communities.
 
 # Student Contributor, Mhea Bardouille  
 
@@ -37,4 +37,4 @@ After completing this digital humanities project, I have a newfound appreciation
 
 After my initial idea for this project, I decided to expand this project to explore if gender variances exist in different elements, specifically ethnicities and genres.
 
-To create, **project name**, Voyant Tools was used to conduct textual analysis to decipher patterns in texts, Knightlab’s story map was used to geographically map the authorship country, and the contents and analysis were hosted on a site, using the static site generator,  Jekyll. 
+To create, The Gender Split: West Indian Literature, 1961-1990 [Voyant Tools](https://voyant-tools.org/) was used to conduct textual analysis to decipher patterns in texts, [Knightlab’s story map](https://storymap.knightlab.com/) was used to geographically map the authorship country, and the contents and analysis were hosted on a site, using the static site generator,  [Jekyll](https://jekyllrb.com/). 
