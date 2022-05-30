@@ -26,7 +26,8 @@ div {
 
 -------------------------------------------------------
 <br />
-Prologue {#Prologue}
+
+### Prologue {#Prologue}
 
 In the [visualization of themes](/mhea_DH/themes), an overview of previously published works on thematic differences between male and female authors was given. Interestingly, the author of the article "Gender and Literature" by Pázámy Péter Catholic University argued that the gender roles of the early 18th and 19th centuries would have influenced the behavior, morality, and feelings of women, thereby impacting their literary pieces. However, the Femist Movement in the 1970s in the Caribbean would have reduced these predetremined gender roles and gender identity, thus having less of an effect on these authors.
 
@@ -57,13 +58,13 @@ This exhibit will critically compare and contrast the themeatic expression of ma
 
 <br />
 
-Methodology {#method}
+### Methodology {#method}
 <br />
 
-Comparison: Male and Female Authors {#compare}
+### Comparison: Male and Female Authors {#compare}
 
 <br />
 
-Bibliography {#bibliography}
+### Bibliography {#bibliography}
 <br />
 
