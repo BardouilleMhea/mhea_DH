@@ -39,15 +39,15 @@ From the [visualization of Expressive Styles (Genre)](/mhea_DH/genre), it was co
 
 <br />
 
-###  Earl Lovelace: The Dragon Can't Dance (#Lovelace)
+###  Earl Lovelace: The Dragon Can't Dance {#Lovelace}
 
 <br />
 
-### Jean Rhys: Wide Sargasso Sea (#Rhys)
+### Jean Rhys: Wide Sargasso Sea {#Rhys}
 
 <br />
 
-### Comparison: The Dragon Can't Dance & Wide Sargasso Sea (#compare)
+### Comparison: The Dragon Can't Dance & Wide Sargasso Sea {#compare}
 
 <br />
 
