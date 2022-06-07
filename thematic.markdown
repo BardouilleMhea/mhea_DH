@@ -63,11 +63,49 @@ This exhibit will critically compare and contrast the themeatic expression of ma
 <br />
 
 ### Methodology {#method}
+
+To create this exhibit, a sample of 8 literary pieces that were included in the project, Gender Split 1961-1990, were chosen at random. 
+
+From these literary pieces, samples of approximately 6-7 pages were included in [Voyant-Tools] (https://voyant-tools.org/) for distant reading purposes.
+
+This sample selection process was advised by Schuyler K. Esprit, PhD, who was also the director of Create Caribbean Research Institute.
+
+> "Distant reading" is a computational text mining method used in Digital Humanities to analyze large amounts of literary pieces and provide microanalytics such as quantitative data and cultural and historical criticism.
+
+The sample of literary pieces:
+
+**Authored by males**
+1. V.S Naipaul : A House for Mr Biswas (1961)
+2. Earl Lovelace : Dragon Can't Dance (1979)
+3. Derek Walcott: Fortunate Traveller (1981)
+
+**Authored by females**
+1. Jean Rhys: Wide Sargasso Sea (1966)
+2. Merle Hodge: Crick Crack, Monkey (1970)
+3. Phyllis Shand Allfrey : The Orchid House (1982)
+4. Dionne Brand: In Another Place, Not Here (1996)
+5. Jamaica Kincaid: The Autobiography of my Mother (1996) 
+
 <br />
 
 ### Comparison: Male and Female Authors {#compare}
 
 ### Thematic Overview: Cirrus {#themes}
+
+Using Voyant Tools, [Cirrus] (https://voyant-tools.org/docs/#!/guide/cirrus), a world cloud that visualizes the top frequency words of a corpus was created to determine the thematic elements present in male and female authors' literary pieces.
+
+*Cirrus - Male Authors*           *Cirrus - Female Authors*
+
+<div class="row">
+  <div class="column">
+    <img src="https://cdn.britannica.com/49/161649-050-3F458ECF/Bernese-mountain-dog-grass.jpg?q=60" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://ggsc.s3.amazonaws.com/images/uploads/The_Science-Backed_Benefits_of_Being_a_Dog_Owner.jpg" alt="Forest" style="width:100%">
+  </div>
+</div>
+
+
 
 <br/> 
 
@@ -76,7 +114,7 @@ This exhibit will critically compare and contrast the themeatic expression of ma
 Voyant's [*TextualArc*](https://voyant-tools.org/docs/#!/guide/textualarc) feature is a visualization of the terms in a document that includes a weighted centroid of terms and an arc that follows the terms in document order.
 
 
-The sample texts included in the Gender Split, 1961-1990 will be represented on the perminter of a cricle, starting at the top and looping around clockwise. Each occurrence of a term pulls the term toward its location on the perimeter and the position of the term label is the mean of these forces (or wighted [centroid](https://en.wikipedia.org/wiki/Centroid)). 
+The sample texts included in the Gender Split, 1961-1990 will be represented on the perminter of a cricle, starting at the top and looping around clockwise. Each occurrence of a term pulls the term toward its location on the perimeter and the position of the term label is the mean of these forces (or weighted [centroid](https://en.wikipedia.org/wiki/Centroid)). 
 
 Each sample is "read" from start to finish and the occurrences of the currently read term are shown by lines to the perimeter. 
 
