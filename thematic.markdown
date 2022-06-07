@@ -94,7 +94,6 @@ The sample of literary pieces:
 
 Using Voyant Tools, [Cirrus] (https://voyant-tools.org/docs/#!/guide/cirrus), a world cloud that visualizes the top frequency words of a corpus was created to determine the thematic elements present in male and female authors' literary pieces.
 
-*Cirrus - Male Authors*           *Cirrus - Female Authors*
 
 <div class="row">
   <div class="column">
