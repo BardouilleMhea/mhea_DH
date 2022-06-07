@@ -94,16 +94,16 @@ The sample of literary pieces:
 
 Using Voyant Tools, [Cirrus] (https://voyant-tools.org/docs/#!/guide/cirrus), a world cloud that visualizes the top frequency words of a corpus was created to determine the thematic elements present in male and female authors' literary pieces.
 
+*Cirrus - Male Authors*       **VS**    *Cirrus - Female Authors*
 
 <div class="row">
   <div class="column">
-    <img src="https://cdn.britannica.com/49/161649-050-3F458ECF/Bernese-mountain-dog-grass.jpg?q=60" alt="Snow" style="width:100%">
+    <img src="https://cdn.britannica.com/49/161649-050-3F458ECF/Bernese-mountain-dog-grass.jpg?q=60" alt="Snow" style="width:100%" title ="Cirrus Male Authors">
   </div>
   <div class="column">
     <img src="https://ggsc.s3.amazonaws.com/images/uploads/The_Science-Backed_Benefits_of_Being_a_Dog_Owner.jpg" alt="Forest" style="width:100%">
   </div>
 </div>
-
 
 
 <br/> 
