@@ -17,7 +17,11 @@ div {
 
 1. [Prologue](#Prologue)
 2. [Methodology](#method)
-3. [Comparison: Male and Female Authors](#compare)
+3. [Comparison: Male and Female Authors](#compare) <br/>
+a. [Thematic Overview: Cirrus](#themes) <br/>
+b. [TexturalArc](#textual) <br/>
+i. [Male TextualArc](#textual-male) <br/>
+ii.[Female TextualArc](#textual-female) <br/>
 4. [Bibliography](#bibliography)
 
 * [Go the Previous Visualization](/mhea_DH/expressive-style) 
@@ -63,14 +67,30 @@ This exhibit will critically compare and contrast the themeatic expression of ma
 
 ### Comparison: Male and Female Authors {#compare}
 
-<!--  Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 540px; height: 354px;' src='https://voyant-tools.org/tool/TextualArc/?stopList=keywords-94715760e29f1d86e743962555014211&speed=45&corpus=fbe8078fcfae167c4d5fd21cc99daed9'></iframe>
+### Thematic Overview: Cirrus {#themes}
 
+<br/> 
+
+### TexturalArc {#textual}
+
+Voyant's [*TextualArc*](https://voyant-tools.org/docs/#!/guide/textualarc) feature is a visualization of the terms in a document that includes a weighted centroid of terms and an arc that follows the terms in document order.
+
+
+The sample texts included in the Gender Split, 1961-1990 will be represented on the perminter of a cricle, starting at the top and looping around clockwise. Each occurrence of a term pulls the term toward its location on the perimeter and the position of the term label is the mean of these forces (or wighted [centroid](https://en.wikipedia.org/wiki/Centroid)). 
+
+Each sample is "read" from start to finish and the occurrences of the currently read term are shown by lines to the perimeter. 
+
+Users of this project can also hover over any term to see its occurrences on the perimeter, and interact with the different male and female authored samples included in this exhibit. 
+<br/>
+
+### Male TextualArc {#textual-male}
+<iframe style='width: 509px; height: 354px;' src='https://voyant-tools.org/tool/TextualArc/?stopList=keywords-309b7acf755641f24c88ba06772c678d&corpus=76607638cb9cab5f7aefcb19b34cec4e'></iframe>
+
+<br/>
+
+### Female TextualArc {#textual-female} 
+
+<iframe style='width: 540px; height: 354px;' src='https://voyant-tools.org/tool/TextualArc/?stopList=keywords-94715760e29f1d86e743962555014211&speed=45&corpus=fbe8078fcfae167c4d5fd21cc99daed9'></iframe>
 
 <br />
 
