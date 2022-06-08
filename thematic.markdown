@@ -98,11 +98,18 @@ Using Voyant Tools, [Cirrus](https://voyant-tools.org/docs/#!/guide/cirrus), a w
 
 <img src = "https://cdn.britannica.com/49/161649-050-3F458ECF/Bernese-mountain-dog-grass.jpg?q=60" alt="Cirrus Male Authors" style="width:100%">
 
- **VS**    
+**Analysis** 
+
+
+<br/>
 
  *Cirrus - Female Authors*
 
 <img src = "https://cdn.britannica.com/49/161649-050-3F458ECF/Bernese-mountain-dog-grass.jpg?q=60" alt="Cirrus Female Authors" style="width:100%">
+
+**Analysis** 
+
+<br/>
 
 ### TexturalArc {#textual}
 
@@ -119,11 +126,28 @@ Users of this project can also hover over any term to see its occurrences on the
 ### Male TextualArc {#textual-male}
 <iframe style='width: 509px; height: 354px;' src='https://voyant-tools.org/tool/TextualArc/?stopList=keywords-309b7acf755641f24c88ba06772c678d&corpus=76607638cb9cab5f7aefcb19b34cec4e'></iframe>
 
+**Analysis**
+
+From the cirus, some of the keywords are "dragon" and "costume". Literary pieces such as Earl Lovelace's "Dragon Can’t Dance" (1979) center around the life of Aldrick Prospect, a man who spends the entire year recreating his dragon costume for Carnival. From the dataset of themes for this project, it can be concluded that the male authors from 1961-1990 explored themes such as *"identify"*, particularly the unique identity of the Caribbean. Carnival is an ancestral celebration of Caribbean experience and identity.
+
+Furthermore, the Caribbean carnival first started to take shape in 1834 with the end of slavery. Therefore, male literary works from 1961–1990 explore some **postcolonial** subject matters through the description of carnival masquerades, music, and dance, which are symbolic of the native culture expressed by enslaved people.
+
+Moreover, more common words in this word cloud include boy and children, which allude to themes such as **"young boy growing up"** and **"adolescents"** as well as the corpus terms "mother" and "family," which would signal "family relationships" being explored in male-authored texts.
+
 <br/>
 
 ### Female TextualArc {#textual-female} 
 
 <iframe style='width: 540px; height: 354px;' src='https://voyant-tools.org/tool/TextualArc/?stopList=keywords-94715760e29f1d86e743962555014211&speed=45&corpus=fbe8078fcfae167c4d5fd21cc99daed9'></iframe>
+
+**Analysis**
+From this cirus, some of the keywords include, "tante", "uncle", "mother" which symbolize that these literary pieces written by female authors explore themes such as **family relationships**.
+
+Furthermore, thes references made to the surroundings such as "street", "road", "town" and "tree". As such, it can be deduced that female authors publishing words such as 1961-1990 expressed themes such as **nature**. 
+
+Additionally, the reference of "yu", which is the colloquial team  for "you". These terms or "slangs" are usually associated with speakers who are of lower socio-economic status and **class**, since these individuals have lower levels of education. 
+
+
 
 <br />
 
