@@ -147,8 +147,6 @@ Furthermore, thes references made to the surroundings such as "street", "road", 
 
 Additionally, the reference of "yu", which is the colloquial team  for "you". These terms or "slangs" are usually associated with speakers who are of lower socio-economic status and **class**, since these individuals have lower levels of education. 
 
-
-
 <br />
 
 ### Bibliography {#bibliography}
