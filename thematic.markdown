@@ -96,7 +96,7 @@ Using Voyant Tools, [Cirrus](https://voyant-tools.org/docs/#!/guide/cirrus), a w
 
 *Cirrus - Male Authors*     
 
-<img src = "hhttps://createcaribbean.org/create/wp-content/uploads/2022/06/voyant_male_cirrus.png" alt="Cirrus Male Authors" style="width:100%">
+<img src = "https://createcaribbean.org/create/wp-content/uploads/2022/06/voyant_male_cirrus.png" alt="Cirrus Male Authors" style="width:100%">
 
 **Analysis**
 
