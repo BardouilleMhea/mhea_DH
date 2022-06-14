@@ -74,21 +74,21 @@ In this study, a randomized sample of 575 books published from 1971–1990 was t
 
 ### Comparative Visualizations: Total Amount {#total}
 
-__Insert chart compairson of the no. of publications by male and female caribbean authors from 1961-1990__
+![Comparision of the number of publications by make and female authors](https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-number-of-publications-by-male-and-female-Caribbean-authors-from-1961-1990.png)
 
 Comparatively, it can be seen that from 1961-1990, there were more male authors publishing literary works than female authors. Moreover, there seems to be an enormous increase in the publication of literary works from 1981–1990, which could be attributed to economic factors such as the creation or financing of local publishing houses that support these authors, cultural factors like the general acceptance of the work of these authors in both local and international markets, and social events like political unrest, independence, or personal experiences that inspired the writing of these authors. 
 <br/>
 
 ### Comparative Visualizations: Male Authors {#male}
 
-__Insert chart: comparison of the genres of published literary works by male caribbean authors from 1961-1990__
+![Comparison of the genres published by male Caribbean authors](https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-genres-of-published-literary-works-by-male-Caribbean-authors-from-1961%E2%80%931990.png)
 
 From comparing the genres published by male Caribbean authors from 1961–1990, it can clearly be seen that fiction (novels) is the most popular genre, followed by non-fiction books and poetry collections. Furthermore, this graphical representation always allows the audience to compare the publication output per decade. As a result, it can be concluded that the relative output of essays by male authors in 1961–1970 was the highest in this observation period. Also, from 1971–1980, a lot more male authors wrote biographies than female authors, and a considerable number of male authors wrote plays and dramas in the years 1981–1990. 
 <br/>
 
 ### Comparative Visualizations: Female Authors {#female}
 
-__Insert chart: comparison of the genres of published literary works by female caribbean authors from 1961-1990__
+![Comparison of the genres published by female Caribbean authors](https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-genres-of-published-literary-works-by-female-Caribbean-authors-from-1981%E2%80%931990.png)
 
 Similarly to the previous chart, from 1961–1990, the most popular genre published by female Caribbean authors from 1961–1990 was fiction (novels), followed by poetry collections and then non-fiction books. However, from this random sample, there were no female-authored literary works for biography, essays, or dramas. Thus, it can be concluded that there is a low publication output of these works. Moreover, from 1961-1970, no female writers wrote autobiographies or poems. Also, female authors produced the most literary works in each genre category from 1981 to 1990.
 <br/>
@@ -97,7 +97,7 @@ Similarly to the previous chart, from 1961–1990, the most popular genre publis
 
 Thus, with this data, a chart demonstrating the gender and genre of authors from 1961–1990 can be created and analyzed. 
 
-__Insert chart: comparison of the genres of published literary works by male and female caribbean authors from 1961-1990__
+![Comparison of the genres published by male and female caribbean authors](https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-genres-of-published-literary-works-by-male-and-female-Caribbean-authors-from-1961%E2%80%931990.png)
 
 <br />
 

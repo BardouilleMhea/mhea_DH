@@ -96,7 +96,7 @@ Using Voyant Tools, [Cirrus](https://voyant-tools.org/docs/#!/guide/cirrus), a w
 
 *Cirrus - Male Authors*     
 
-<img src = "https://cdn.britannica.com/49/161649-050-3F458ECF/Bernese-mountain-dog-grass.jpg?q=60" alt="Cirrus Male Authors" style="width:100%">
+<img src = "hhttps://createcaribbean.org/create/wp-content/uploads/2022/06/voyant_male_cirrus.png" alt="Cirrus Male Authors" style="width:100%">
 
 **Analysis**
 
@@ -110,7 +110,7 @@ Moreover, more common words in this word cloud include boy and children, which a
 
  *Cirrus - Female Authors*
 
-<img src = "https://cdn.britannica.com/49/161649-050-3F458ECF/Bernese-mountain-dog-grass.jpg?q=60" alt="Cirrus Female Authors" style="width:100%">
+<img src = "https://createcaribbean.org/create/wp-content/uploads/2022/06/voyant_female_cirrus.png" alt="Cirrus Female Authors" style="width:100%">
 
 **Analysis**
 From this cirus, some of the keywords include, "tante", "uncle", "mother" which symbolize that these literary pieces written by female authors explore themes such as **family relationships**.

@@ -134,11 +134,11 @@ Visualizations and statistical graphics were created to make it easier for the a
 
 ### Authorship 
 
-![Authorship by Country](assets/img/authorship-by-country-1961-1990.png "Authorship by Country Statistical ")
+**Authorship By Country**
 
-![image info](./Users/MHEA/mhea_DH/assets\img/authorship-by-country-1961-1990.png)
+This graph expresses a part-to-whole relationship between the birth countries of the male and female authors represented in the Gender Divide,
 
-![Authorship by Country](files/Users/MHEA/mhea_DH/assets/img/authorship-by-country-1961-1990.png)
+![Authorship by Country](https://createcaribbean.org/create/wp-content/uploads/2022/06/Authorship-by-Country-1961-1990.png)
 
 
 ### Bibliography {#Bibliography}
