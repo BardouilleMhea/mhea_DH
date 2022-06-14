@@ -130,12 +130,11 @@ Another possibility for the increase in female-written publications that explore
 Furthermore, it can be seen that literary works that explore the theme of "identity," such as Carnival, which is a unique fusion of cultures in the Caribbean, indigenous cultures, and religions within the Caribbean region, and having difficulties accepting these, or a blend of cultures and identities, were most frequent in this data set. The second most popular theme is "power". The most common expression of power in this sample are authors writing about their experiences living under authoritarian governments such as the regime of Fidel Castro in Cuba or François Duvalier's regime in Haiti, as well as under the World Wars. Thirdly, colonialism was a highly popular theme present in the works published by Caribbean male and female authors from 1961-1990, as a lot of these countries were still colonies of European countries such as England, who were exploting them and forcing their cultural values upon these countries. 
 
 
-**Themes in published literary works by Male Caribbean authors vs Female Caribbean authors from 1961–1990**
+Themes in published literary works by Male Caribbean authors vs Female Caribbean authors from 1961–1990
 
   ![Male Caribben Authors Themes](https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-themes-in-published-literary-works-by-male-Caribbean-authors-from-1961%E2%80%931990-1.png)
   
-
-  ## VERSUS
+  **VERSUS**
 
   ![Female Caribben Authors Themes](https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-themes-in-published-literary-works-by-female-Caribbean-authors-from-1961%E2%80%931990-1.png)
   
