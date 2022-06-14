@@ -134,10 +134,10 @@ Furthermore, it can be seen that literary works that explore the theme of "ident
 
 <div class="row">
   <div class="column">
-    <img src="https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-themes-in-published-literary-works-by-male-Caribbean-authors-from-1961%E2%80%931990-1.png" alt="Male Caribben Authors Themes" style="width:500px">
+    <img src="https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-themes-in-published-literary-works-by-male-Caribbean-authors-from-1961%E2%80%931990-1.png" alt="Male Caribben Authors Themes" height = "100px" style="width:500px">
   </div>
   <div class="column">
-    <img src="https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-themes-in-published-literary-works-by-female-Caribbean-authors-from-1961%E2%80%931990-1.png" alt="Female Caribben Authors Themes" style="width:500px">
+    <img src="https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-themes-in-published-literary-works-by-female-Caribbean-authors-from-1961%E2%80%931990-1.png" alt="Female Caribben Authors Themes"  height = "100px" style="width:500px">
   </div>
 </div>
 
