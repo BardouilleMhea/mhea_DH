@@ -19,7 +19,7 @@ This site presents [data](https://github.com/BardouilleMhea/mhea_DH), [visualiza
 
 In the scope of this project, a *"Caribbean author"* is classified as a writer born in countries belonging or relating to the Caribbean Sea (including the West Indies) and the surrounding coasts, as well as authors of Caribbean heritage.
 
-InThe Gender Split: West Indian Literature, 1961-1990, researcher [Mhea Bardouille](/mhea_DH/about) asks: 
+In The Gender Split: West Indian Literature, 1961-1990, researcher [Mhea Bardouille](/mhea_DH/about) asks: 
 * What are the most common genres used by male and female authors who published books between 1961 and 1990? 
 * What are the thematic differences between the works of female and male authors? 
 * What are the ethnic parallels and distinctions between male and female authors, and which gender uses their literary works to share their cultural experiences?
