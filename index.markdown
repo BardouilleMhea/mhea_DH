@@ -27,7 +27,7 @@ In The Gender Split: West Indian Literature, 1961-1990, researcher [Mhea Bardoui
 
 *Methodology* 
 
-In this reseach study, a randomized sample of 575 books published from 1971–1990 was taken from the Create Caribbean's r. Moreover, the project period was divided into three decades: 1961–1970, 1971–1980, and 1981–1990, in order to observe the numeral trend based on a focal point. A relative sample was chosen at random based on the total number of published books in the WRS project per decade. This may be expressed as a table:
+In this reseach study, a randomized sample of 575 books published from 1971–1990 was taken from the Create Caribbean's project, Writers, Readers, and Scenes: Visualizing Caribbean Literature. Moreover, the project period was divided into three decades: 1961–1970, 1971–1980, and 1981–1990, in order to observe the numeral trend based on a focal point. A relative sample was chosen at random based on the total number of published books in the WRS project per decade. This may be expressed as a table:
 
 | **Publication Year**   | Male        |Female    |Total      | 
 | -----------------------| ----------- |------------|-----------|
