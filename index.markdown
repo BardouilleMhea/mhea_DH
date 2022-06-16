@@ -25,7 +25,7 @@ In The Gender Split: West Indian Literature, 1961-1990, researcher [Mhea Bardoui
 * What are the ethnic parallels and distinctions between male and female authors, and which gender uses their literary works to share their cultural experiences?
 * Which Caribbean country has the highest concentration of male and female authors who published between 1961 and 1990?
 
-This project offers different possibilities for users. As a resource for research, the visualizations showcase patterns, trends, and outliers from the data sets that digital humanists and scholars can use in digital pedagogy or in their own projects to explore humanist inquiry.
+This project offers different possibilities for users; as a resource for research, the visualizations showcase patterns, trends, and outliers from the data sets that digital humanists and scholars can use in digital pedagogy or in their own projects to explore humanist inquiry.
 
 More importantly, this site acts as a "Caribbean Corner" by reminding users, especially the youth, of the unique culture of the Caribbean, the melting pot, and by appreciating each author's distinct voice as they tell this story. 
 
