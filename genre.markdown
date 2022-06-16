@@ -18,13 +18,12 @@ div {
 ### Navigation Links
 
 1. [Prologue](#Prologue)
-2. [Analysis](#Analysis)
-3. [Visualizations](#Visualizations)<br/>
+2. [Visualizations](#Visualizations)<br/>
 	a. [Comparative Visualizations: Total Amount](#total) <br/>
 	b. [Comparative Visualizations: Male Authors](#male) <br/>
 	c. [Comparative Visualizations: Female Authors](#female) <br/>
 	d. [Comparative Visualizations: Male and Female Authors](#male-female)
-4. [Bibliography](#bibliography)
+3. [Bibliography](#bibliography)
 
 * [Go to Previous Visualization](/mhea_DH/country)
 
@@ -57,18 +56,6 @@ Genres assist the reader in categorizing literature for study or leisure reading
 Many organizations and individuals have recorded the difference in genre based on the gender of authors.  Kyle Wholey, a researcher in the [Women Writers Project](https://wwp.northeastern.edu/blog/genre-and-gender-differences/), has observed this based on the organizations' data set of texts. From this research, Orvaetz concluded that a greater percentage of females authored novels and poetry, more males authored biographies and dramas, and there was a split ratio for authorship of autobiographies. 
 
 <br/>
-
-### Analysis {#Analysis}
-
-In this study, a randomized sample of 575 books published from 1971–1990 was taken. Moreover, the project period was divided into three decades: 1961–1970, 1971–1980, and 1981–1990, in order to observe the numeral trend based on a focal point. A relative sample was chosen at random based on the total number of published books in the WRS project per decade. This may be expressed as a table:
-
-| **Publication Year**   | Male        |Female 		|Total      | 
-| -----------------------| ----------- |------------|-----------|
-| 1961-1970			     |		81     |	 14  	|	**95**  | 
-| 1971-1980              | 	   112     |	 33   	|  **145**  |
-| 1981-1990              | 	   243     |	 92		|   **335** |
-| Total                  | **436**     |	**139**	|	**575** |
-
 
 ##  Visualizations {#Visualizations}
 
