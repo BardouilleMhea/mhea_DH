@@ -141,7 +141,7 @@ Anotinette's family were planters who owned slaves until the passage of the Slav
 
 There are a few similarities and differences between these two novels.
 
-Firstly, both of these novels are set during a transitional period on the Caribbean island in which they are located. In Lovelace's novel, Trinidad is going through an adjustory period from being a colonial terriry to an independent nation, whereas in Rhys' novel, Jamaica's society is adpating from a society where slavery was legal to one where it was abolished. While these scenarios and settings are quite different, they are both periods of high social tension.
+Firstly, both of these novels are set during a transitional period on the Caribbean island in which they are located. In Lovelace's novel, Trinidad is going through an adjustory period from being a colonial territory to an independent nation, whereas in Rhys' novel, Jamaica's society is adpating from a society where slavery was legal to one where it was abolished. While these scenarios and settings are quite different, they are both periods of high social tension.
 
 Secondly, in Rhys' novel, there are more characters that move the plot of the novel in comparison to Lovelace's novel. This might be because "Wide Sargasso Sea" has two main settings: Jamaica and England.
 
