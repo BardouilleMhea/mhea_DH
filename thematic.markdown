@@ -66,7 +66,7 @@ This exhibit will critically compare and contrast the themeatic expression of ma
 
 To create this exhibit, a sample of 8 literary pieces that were included in the project, Gender Split 1961-1990, were chosen at random. 
 
-From these literary pieces, samples of approximately 6-7 pages were included in [Voyant-Tools] (https://voyant-tools.org/) for distant reading purposes.
+From these literary pieces, samples of approximately 6-7 pages were included in [Voyant-Tools](https://voyant-tools.org/) for distant reading purposes.
 
 This sample selection process was advised by Schuyler K. Esprit, PhD, who was also the director of Create Caribbean Research Institute.
 
