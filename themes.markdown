@@ -4,6 +4,13 @@ title: Themes
 permalink: /themes/
 
 ---
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+</style>
 
 ----------------------------------------------
 ### Navigation Links
@@ -19,25 +26,6 @@ permalink: /themes/
 * [Explore other visualizations](/mhea_DH/charts) 
 
 --------------------------------------------------
-
-<style>
-	/* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-</style>
-
-<br/>
 
 ### Prologue {#Prologue}
 
