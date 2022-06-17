@@ -113,6 +113,7 @@ Moreover, more common words in this word cloud include "boy" and "children", whi
 <img src = "https://createcaribbean.org/create/wp-content/uploads/2022/06/voyant_female_cirrus.png" alt="Cirrus Female Authors" style="width:100%">
 
 **Analysis**
+
 From this cirus, some of the keywords include, "tante", "uncle", "mother" which symbolize that these literary pieces written by female authors explore themes such as **family relationships**.
 
 Furthermore, thes references made to the surroundings such as "street", "road", "town" and "tree". As such, it can be deduced that female authors publishing words such as 1961-1990 expressed themes such as **nature**. 
