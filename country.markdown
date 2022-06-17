@@ -10,9 +10,6 @@ div {
   text-justify: inter-word;
 }
 
-.myDiv {
-	width: 50%;
-}
 </style>
 
 ---------------------------------------------------
@@ -46,8 +43,6 @@ Thus, this encouraged me to first determine if this trend in high-male dominance
 <br />
 
 ### Gender Concentration by Country {#Gender-Concentration-by-Country}
-
-<div class="table">
 
 
 | **Author Country**     | Count       |% by Male	|% by Female| # of Male|# of Female|
