@@ -100,7 +100,7 @@ Using Voyant Tools, [Cirrus](https://voyant-tools.org/docs/#!/guide/cirrus), a w
 
 **Analysis**
 
-From the cirus, some of the keywords are "dragon" and "costume". Literary pieces such as Earl Lovelace's "Dragon Can’t Dance" (1979) center around the life of Aldrick Prospect, a man who spends the entire year recreating his dragon costume for Carnival. From the dataset of themes for this project, it can be concluded that the male authors from 1961-1990 explored themes such as *"identify"*, particularly the unique identity of the Caribbean. Carnival is an ancestral celebration of Caribbean experience and identity.
+From the cirus, some of the keywords are "dragon" and "costume". Literary pieces such as Earl Lovelace's "Dragon Can’t Dance" (1979) center around the life of Aldrick Prospect, a man who spends the entire year recreating his dragon costume for Carnival. From the dataset of themes for this project, it can be concluded that the male authors from 1961-1990 explored themes such as **"identify"**, particularly the unique identity of the Caribbean. Carnival is an ancestral celebration of Caribbean experience and identity.
 
 Furthermore, the Caribbean carnival first started to take shape in 1834 with the end of slavery. Therefore, male literary works from 1961–1990 explore some **postcolonial** subject matters through the description of carnival masquerades, music, and dance, which are symbolic of the native culture expressed by enslaved people.
 
