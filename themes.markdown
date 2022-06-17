@@ -75,17 +75,7 @@ Some common themes of Caribbean Literature include:
 19. Young boys growing up
 20. Young girls growing up
 
-In this study, a randomized sample of 575 books published from 1971–1990 was taken. Moreover, the project period was divided into three decades: 1961–1970, 1971–1980, and 1981–1990, in order to observe the numeral trend based on a focal point. A relative sample was chosen at random based on the total number of published books in the WRS project per decade. This may be expressed as a table:
-
-| **Publication Year**   | Male        |Female 		|Total      | 
-| -----------------------| ----------- |------------|-----------|
-| 1961-1970			     |		81     |	 14  	|	**95**  | 
-| 1971-1980              | 	   112     |	 33   	|  **145**  |
-| 1981-1990              | 	   243     |	 92		|   **335** |
-| Total                  | **436**     |	**139**	|	**575** |
-
 <br/>
-
 
 ### Analysis {#Analysis}
 
