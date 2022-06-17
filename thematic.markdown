@@ -104,7 +104,7 @@ From the cirus, some of the keywords are "dragon" and "costume". Literary pieces
 
 Furthermore, the Caribbean carnival first started to take shape in 1834 with the end of slavery. Therefore, male literary works from 1961–1990 explore some **postcolonial** subject matters through the description of carnival masquerades, music, and dance, which are symbolic of the native culture expressed by enslaved people.
 
-Moreover, more common words in this word cloud include "boy" and "children", which allude to themes such as **"young boy growing up"** and **"adolescents"** as well as the corpus terms "mother" and "family," which would signal "family relationships" being explored in male-authored texts.
+Moreover, more common words in this word cloud include "boy" and "children", which allude to themes such as **"young boy growing up"** and **"adolescents"** as well as the corpus terms "mother" and "family," which would signal **"family relationships"** being explored in male-authored texts.
 
 <br/>
 
