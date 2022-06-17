@@ -53,7 +53,7 @@ Genres assist the reader in categorizing literature for study or leisure reading
 
 > Because genre is all about reader expectations, and if a story doesn’t meet those expectations, it’s finished. Even the most beautiful turn of phrase can’t save it. By Valerie Francis
 
-Many organizations and individuals have recorded the difference in genre based on the gender of authors.  Kyle Wholey, a researcher in the [Women Writers Project](https://wwp.northeastern.edu/blog/genre-and-gender-differences/), has observed this based on the organizations' data set of texts. From this research, Orvaetz concluded that a greater percentage of females authored novels and poetry, more males authored biographies and dramas, and there was a split ratio for authorship of autobiographies. 
+Many organizations and individuals have recorded the difference in genre based on the gender of authors.  Kyle Wholey, a researcher in the [Women Writers Project](https://wwp.northeastern.edu/blog/genre-and-gender-differences/), has observed this based on the organizations' data set of texts. From this research, she concluded that a greater percentage of females authored novels and poetry, more males authored biographies and dramas, and there was a split ratio for authorship of autobiographies. 
 
 <br/>
 
