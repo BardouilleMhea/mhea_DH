@@ -44,6 +44,9 @@ Thus, this encouraged me to first determine if this trend in high-male dominance
 
 ### Gender Concentration by Country {#Gender-Concentration-by-Country}
 
+<table style="width:70%">
+
+
 | **Author Country**     | Count       |% by Male	|% by Female| # of Male|# of Female|
 | -----------------------| ----------- |------------|-----------|----------|-----------|
 | Antigua and Barbuda    |		 1     |	 0		|	**100**	|	0	   |	1	   |  
@@ -88,6 +91,7 @@ Thus, this encouraged me to first determine if this trend in high-male dominance
 |                        |             |Total Number of  |   151     |    49    | **200**   | 			
 |                        |             |Total Percentage of  |  75.50 |    24.50    | **100**   |
 
+</table>
 
 *This methodology was inspired by [Wholey's (2018) research for the North Eastern University - Women Writers Project](https://wwp.northeastern.edu/blog/genre-and-gender-differences/) on the disparity between genres presented in literary works by men and women.*
 
