@@ -17,7 +17,7 @@ div {
 1. [Prologue](#Prologue)
 2. [Earl Lovelace: The Dragon Can't Dance](#Lovelace)
 3. [Jean Rhys: Wide Sargasso Sea](#Rhys)
-4. [Comparison: The Dragon Can't Dance & Wide Sargasso Sea](#compare)
+4. [Comparison: The Dragon Can't Dance & Wide Sargasso Sea](#compare) (e)
 5. [Bibliography](#bibliography)
 
 * [Go the Previous Visualization](/mhea_DH/ethnic-variances) 
