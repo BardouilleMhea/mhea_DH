@@ -20,7 +20,7 @@ In Christina Boyles's article, ["Making and Breaking: Teaching Information Ethic
 
 During the project's name curation process, I decided to emphasize the various ethnic variances as they apply to gender, to gain a deeper understanding of the rich Caribbean culture and to preserve and present accurate information about some of the ethnicities that can be found in the Caribbean region.
 
-[(p)](/mhea_DH/)
+[(q)](/mhea_DH/)
 
 ---------------------------------------------------
 ### Navigation Links
