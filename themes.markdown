@@ -65,7 +65,8 @@ Some common themes of Caribbean Literature include:
 
 <br/>
 
-### Analysis {#Analysis}    [h](#compare-visualizations)
+### Analysis {#Analysis}   
+[h](#compare-visualizations)
 
 | **Theme**   		     	   | Male (1961-1970) |Female (1961-1970)| Male (1971-1980| Female (1971-1980|Male (1981-1990|Female (1981-1990|**Total**
 | -----------------------------|------------------|------------------|----------------|------------------|--------------|-----------------|---------
