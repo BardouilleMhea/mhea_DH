@@ -16,7 +16,7 @@ div {
 ### Navigation Links
 
 1. [Prologue](#Prologue)
-2. [Gender Concentration by Country](#Gender-Concentration-by-Country)
+2. [Gender Concentration by Country](#Gender-Concentration-by-Country) (m)
 3. [Analysis](#Analysis) <br/>
 	a. [Equality between Male and Female Publications](#Equality) <br/>
 	b. [One-sided concentration](#one-sided)<br/>
@@ -43,7 +43,6 @@ Thus, this encouraged me to first determine if this trend in high-male dominance
 <br />
 
 ### Gender Concentration by Country {#Gender-Concentration-by-Country}
-
 
 | **Author Country**     | Count       |% by Male	|% by Female| # of Male|# of Female|
 | -----------------------| ----------- |------------|-----------|----------|-----------|
@@ -93,9 +92,8 @@ Thus, this encouraged me to first determine if this trend in high-male dominance
 *This methodology was inspired by [Wholey's (2018) research for the North Eastern University - Women Writers Project](https://wwp.northeastern.edu/blog/genre-and-gender-differences/) on the disparity between genres presented in literary works by men and women.*
 
 **Note**: During calculations of literary works with multiple authors, only the gender of the primary or first-listed author was taken into consideration so as not to skew the data.
-
 <br />
-
+[(n)](#map-highest-female-concentration)
 
 ### Analysis {#Analysis}
 
