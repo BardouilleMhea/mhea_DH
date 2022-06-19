@@ -85,8 +85,9 @@ The sample of literary pieces:
 3. Phyllis Shand Allfrey : The Orchid House (1982)
 4. Dionne Brand: In Another Place, Not Here (1996)
 5. Jamaica Kincaid: The Autobiography of my Mother (1996) 
-
 <br />
+
+[(j)](#cirrus-male)
 
 ### Comparison: Male and Female Authors {#compare}
 
@@ -94,9 +95,12 @@ The sample of literary pieces:
 
 Using Voyant Tools, [Cirrus](https://voyant-tools.org/docs/#!/guide/cirrus), a word cloud that visualizes the top frequency words of a corpus was created to determine the thematic elements present in male and female authors' literary pieces.
 
-*Cirrus - Male Authors*     
+### *Cirrus - Male Authors* {#cirrus-male}   
 
 <img src = "https://createcaribbean.org/create/wp-content/uploads/2022/06/voyant_male_cirrus.png" alt="Cirrus Male Authors" style="width:100%">
+
+[(k)](#cirrus-female)
+
 
 **Analysis**
 
@@ -108,7 +112,7 @@ Moreover, more common words in this word cloud include "boy" and "children", whi
 
 <br/>
 
- *Cirrus - Female Authors*
+ ### *Cirrus - Female Authors* {#cirrus-female}   
 
 <img src = "https://createcaribbean.org/create/wp-content/uploads/2022/06/voyant_female_cirrus.png" alt="Cirrus Female Authors" style="width:100%">
 
