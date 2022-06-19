@@ -150,7 +150,7 @@ Lastly, these novels explore similar themes but from different angles. For insta
 Furthermore, the themes of **poverty** are also showcased in this novel, but from opposite angles. Lovelace demonstarted the poverty former ex-slaves face, since during servitude they were not allowed to have property or other assets in their names or be educated, which resulted in these indivduals being improvised. Conversely, Rhys explores this theme through the effect emancipation had on whites and other European settlers. Anotinette's family, who were ex-slave owners, became poor because they could not afford to run the sugar plantations, now no longer having unpaid labour.
 
 Alternatively, the novels speak about different themes, such as race in Wide Sargasso Sea and identity in The Dragon Can't Dance.
-
+[(f)](/mhea_DH/themes/) 
 <br />
 
 ### Bibliography {#bibliography}
