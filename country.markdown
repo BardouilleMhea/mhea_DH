@@ -115,6 +115,8 @@ Learn more about the authors and their literary works from the countries with th
 <iframe src="https://uploads.knightlab.com/storymapjs/f46cf935470bb0740a720e3c7f07bf75/authorship-country-1961-1990-highest-concentration-of-female-authors/index.html" frameborder="0" width="100%" height="800"></iframe>'
 <br />
 
+[(p)](/mhea_DH/ethnic-variances)
+
 
 
 ### Economic Perspective {#economic}
@@ -141,7 +143,7 @@ This graph expresses a part-to-whole relationship between the birth countries of
 
 ![Authorship by Country](https://createcaribbean.org/create/wp-content/uploads/2022/06/Authorship-by-Country-1961-1990.png)
 
-[(o)](/mhea_DH/ethnic-variances)
+[(n)](#map-highest-female-concentration)
 
 ### Bibliography {#Bibliography}
 
