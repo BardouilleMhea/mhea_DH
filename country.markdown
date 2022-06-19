@@ -115,6 +115,9 @@ Learn more about the authors and their literary works from the countries with th
 <iframe src="https://uploads.knightlab.com/storymapjs/f46cf935470bb0740a720e3c7f07bf75/authorship-country-1961-1990-highest-concentration-of-female-authors/index.html" frameborder="0" width="100%" height="800"></iframe>'
 <br />
 
+[(o)](/mhea_DH/ethnic-variances)
+
+
 ### Economic Perspective {#economic}
 Article 4: CARICOM divides its 15 member states into two groups: Less Developed Countries (LDCs), which are low-income countries with substantial structural barriers to sustainable development, and More Developed Countries (MDCs), which are high-income countries.
 
