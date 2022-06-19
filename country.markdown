@@ -118,7 +118,6 @@ Learn more about the authors and their literary works from the countries with th
 [(p)](/mhea_DH/ethnic-variances)
 
 
-
 ### Economic Perspective {#economic}
 Article 4: CARICOM divides its 15 member states into two groups: Less Developed Countries (LDCs), which are low-income countries with substantial structural barriers to sustainable development, and More Developed Countries (MDCs), which are high-income countries.
 
