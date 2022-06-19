@@ -116,6 +116,9 @@ Moreover, more common words in this word cloud include "boy" and "children", whi
 
 <img src = "https://createcaribbean.org/create/wp-content/uploads/2022/06/voyant_female_cirrus.png" alt="Cirrus Female Authors" style="width:100%">
 
+[(l)](/mhea_DH/country/)
+
+
 **Analysis**
 
 From this cirus, some of the keywords include, "tante", "uncle", "mother" which symbolize that these literary pieces written by female authors explore themes such as **family relationships**.
