@@ -85,7 +85,7 @@ From comparing the genres published by male Caribbean authors from 1961–1990, 
 Similarly to the previous chart, from 1961–1990, the most popular genre published by female Caribbean authors from 1961–1990 was fiction (novels), followed by poetry collections and then non-fiction books. However, from this random sample, there were no female-authored literary works for biography, essays, or dramas. Thus, it can be concluded that there is a low publication output of these works. Moreover, from 1961-1970, no female writers wrote autobiographies or poems. Also, female authors produced the most literary works in each genre category from 1981 to 1990.
 
 
-[d](/mhea_DH/expressive-style/)
+[d](/mhea_DH/expressive-style)
 <br/>
 
 ### Comparative Visualizations: Male and Female Authors {#male-female}
