@@ -138,7 +138,7 @@ Visualizations and statistical graphics were created to make it easier for the a
 
 **Authorship By Country**
 
-This graph expresses a part-to-whole relationship between the birth countries of the male and female authors represented in the Gender Divide,
+This graph expresses a part-to-whole relationship between the birth countries of the male and female authors represented in the Gender Divide, West Indian Literature 1961-1990. 
 
 ![Authorship by Country](https://createcaribbean.org/create/wp-content/uploads/2022/06/Authorship-by-Country-1961-1990.png)
 
