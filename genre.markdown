@@ -17,7 +17,7 @@ div {
 ----------------------------------------------
 ### Navigation Links
 
-1. [Prologue](#Prologue)
+1. [Prologue](#Prologue) (a)
 2. [Visualizations](#Visualizations)<br/>
 	a. [Comparative Visualizations: Total Amount](#total) <br/>
 	b. [Comparative Visualizations: Male Authors](#male) <br/>
@@ -49,7 +49,7 @@ Genres are categories used to classify literature based on its form, content, an
 9. A **poetry collection** is often a compilation of several poems by one poet to be published in a single volume.
 10. A **short story collection** is a book of short stories by a single author. 
 
-Genres assist the reader in categorizing literature for study or leisure reading. Moreover, it provides a framework for scholars to analyze the importance and impact of texts within a specific category. For an author, the type of genre they choose for work depends on the story they are trying to tell and how they want to shape and portray their characters.
+Genres assist the reader in categorizing literature for study or leisure reading. Moreover, it provides a framework for scholars to analyze the importance and impact of texts within a specific category. For an author, the type of genre they choose for work depends on the story they are trying to tell and how they want to shape and portray their characters. [(b)](/genre/#male)
 
 > Because genre is all about reader expectations, and if a story doesn’t meet those expectations, it’s finished. Even the most beautiful turn of phrase can’t save it. By Valerie Francis
 
@@ -70,6 +70,8 @@ Comparatively, it can be seen that from 1961-1990, there were more male authors 
 
 ![Comparison of the genres published by male Caribbean authors](https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-genres-of-published-literary-works-by-male-Caribbean-authors-from-1961%E2%80%931990.png)
 
+[(c)](/genre/#female)
+
 From comparing the genres published by male Caribbean authors from 1961–1990, it can clearly be seen that fiction (novels) is the most popular genre, followed by non-fiction books and poetry collections. Furthermore, this graphical representation always allows the audience to compare the publication output per decade. As a result, it can be concluded that the relative output of essays by male authors in 1961–1970 was the highest in this observation period. Also, from 1971–1980, a lot more male authors wrote biographies than female authors, and a considerable number of male authors wrote plays and dramas in the years 1981–1990. 
 <br/>
 
@@ -78,6 +80,9 @@ From comparing the genres published by male Caribbean authors from 1961–1990, 
 ![Comparison of the genres published by female Caribbean authors](https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-genres-of-published-literary-works-by-female-Caribbean-authors-from-1981%E2%80%931990.png)
 
 Similarly to the previous chart, from 1961–1990, the most popular genre published by female Caribbean authors from 1961–1990 was fiction (novels), followed by poetry collections and then non-fiction books. However, from this random sample, there were no female-authored literary works for biography, essays, or dramas. Thus, it can be concluded that there is a low publication output of these works. Moreover, from 1961-1970, no female writers wrote autobiographies or poems. Also, female authors produced the most literary works in each genre category from 1981 to 1990.
+
+
+[d](/expressive-style/)
 <br/>
 
 ### Comparative Visualizations: Male and Female Authors {#male-female}
