@@ -49,7 +49,7 @@ Genres are categories used to classify literature based on its form, content, an
 9. A **poetry collection** is often a compilation of several poems by one poet to be published in a single volume.
 10. A **short story collection** is a book of short stories by a single author. 
 
-Genres assist the reader in categorizing literature for study or leisure reading. Moreover, it provides a framework for scholars to analyze the importance and impact of texts within a specific category. For an author, the type of genre they choose for work depends on the story they are trying to tell and how they want to shape and portray their characters. [(b)](/genre/#male)
+Genres assist the reader in categorizing literature for study or leisure reading. Moreover, it provides a framework for scholars to analyze the importance and impact of texts within a specific category. For an author, the type of genre they choose for work depends on the story they are trying to tell and how they want to shape and portray their characters. [(b)](#male)
 
 > Because genre is all about reader expectations, and if a story doesn’t meet those expectations, it’s finished. Even the most beautiful turn of phrase can’t save it. By Valerie Francis
 
