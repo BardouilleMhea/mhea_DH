@@ -119,7 +119,7 @@ Themes in published literary works by Male Caribbean authors vs Female Caribbean
 
 <img src="https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-themes-in-published-literary-works-by-female-Caribbean-authors-from-1961%E2%80%931990-1.png" alt="Female Caribben Authors Themes" width ="70%" >
 
-[(i)](/mhea_DH/thematic)
+[(i)](/mhea_DH/thematic/#method)
 
 <br/>
 
