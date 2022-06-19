@@ -16,7 +16,7 @@ div {
 ### Navigation Links
 
 1. [Prologue](#Prologue)
-2. [Analysis](#Analysis)
+2. [Analysis](#Analysis) (g)
 3. [Visualizations](#Visualizations)
 4. [Bibliography](#bibliography)
 
@@ -65,7 +65,7 @@ Some common themes of Caribbean Literature include:
 
 <br/>
 
-### Analysis {#Analysis}
+### Analysis {#Analysis}    [h](#compare-visualizations)
 
 | **Theme**   		     	   | Male (1961-1970) |Female (1961-1970)| Male (1971-1980| Female (1971-1980|Male (1981-1990|Female (1981-1990|**Total**
 | -----------------------------|------------------|------------------|----------------|------------------|--------------|-----------------|---------
@@ -109,6 +109,14 @@ Furthermore, it can be seen that literary works that explore the theme of "ident
 
 
 Themes in published literary works by Male Caribbean authors vs Female Caribbean authors from 1961–1990
+
+### Comparative Visualization {#compare-visualizations}
+
+<img src="https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-themes-in-published-literary-works-by-male-Caribbean-authors-from-1961%E2%80%931990-1.png" alt="Male Caribben Authors Themes" width ="80%" >
+
+  **VERSUS**
+
+<img src="https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-themes-in-published-literary-works-by-female-Caribbean-authors-from-1961%E2%80%931990-1.png" alt="Female Caribben Authors Themes" width ="80%" >
 
   ![Male Caribben Authors Themes](https://createcaribbean.org/create/wp-content/uploads/2022/06/Comparison-of-the-themes-in-published-literary-works-by-male-Caribbean-authors-from-1961%E2%80%931990-1.png)
   
