@@ -15,8 +15,8 @@ div {
 ----------------------------------------------
 ### Navigation Links
 
-1. [Prologue](#Prologue)
-2. [Analysis](#Analysis) (g)
+1. [Prologue](#Prologue) (g)
+2. [Analysis](#Analysis) 
 3. [Visualizations](#Visualizations)
 4. [Bibliography](#bibliography)
 
